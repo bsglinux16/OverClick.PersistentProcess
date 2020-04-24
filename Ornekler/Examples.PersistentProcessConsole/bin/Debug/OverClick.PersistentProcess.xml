@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OverClick.PersistentProcess
+</name>
+</assembly>
+<members>
+<member name="T:OverClick.PersistentProcess.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:OverClick.PersistentProcess.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:OverClick.PersistentProcess.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:OverClick.PersistentProcess.PersistentProcess.YetkiAl">
+ <summary>
+   Kalıcı işlem için Gerekli Yetkileri Alır. Yetki Alıp Alamadığını True ve False Olarak Döndürür.
+ </summary>
+</member>
+<member name="M:OverClick.PersistentProcess.PersistentProcess.KaliciON">
+ <summary>
+   Kalıcı İşlemi Aktif Eder
+ </summary>
+</member>
+<member name="M:OverClick.PersistentProcess.PersistentProcess.KaliciOFF">
+ <summary>
+   Kalıcı İşlemi İnaktif Eder
+ </summary>
+</member>
+<member name="M:OverClick.PersistentProcess.PersistProc.AdjustTokenPrivileges(System.IntPtr,System.Boolean,OverClick.PersistentProcess.PersistProc.TokPriv1Luid@,System.Int32,System.IntPtr,System.IntPtr)">
+ <summary>
+   TOKEN_ADJUST_PRIVILEGES Etkinleştirir veya Devre Dışı Bırakır
+ </summary>
+</member>
+<member name="M:OverClick.PersistentProcess.PersistProc.GetCurrentProcess">
+ <summary>
+   GetCurrentProcess Alternatifidir
+ </summary>
+</member>
+<member name="M:OverClick.PersistentProcess.PersistProc.OpenProcessToken(System.IntPtr,System.Int32,System.IntPtr@)">
+ <summary>
+   Opens the access token associated with a process.
+ </summary>
+</member>
+<member name="M:OverClick.PersistentProcess.PersistProc.LookupPrivilegeValue(System.String,System.String,System.Int64@)">
+ <summary>
+   LUID i Sorgular
+ </summary>
+</member>
+<member name="M:OverClick.PersistentProcess.PersistProc.RtlSetProcessIsCritical(System.Boolean,System.Boolean@,System.Boolean)">
+ <summary>
+   Kritik İşlemi Ayarlar Bkz: KaliciON() KaliciOFF()
+ </summary>
+</member>
+</members>
+</doc>

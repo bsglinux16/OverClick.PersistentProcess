@@ -1,0 +1,15 @@
+D:\projeler\Examples.PersistentProcessConsole\bin\Debug\Examples.PersistentProcessConsole.exe.config
+D:\projeler\Examples.PersistentProcessConsole\bin\Debug\Examples.PersistentProcessConsole.exe
+D:\projeler\Examples.PersistentProcessConsole\bin\Debug\Examples.PersistentProcessConsole.pdb
+D:\projeler\Examples.PersistentProcessConsole\bin\Debug\Examples.PersistentProcessConsole.xml
+D:\projeler\Examples.PersistentProcessConsole\bin\Debug\OverClick.PersistentProcess.dll
+D:\projeler\Examples.PersistentProcessConsole\bin\Debug\OverClick.PersistentProcess.pdb
+D:\projeler\Examples.PersistentProcessConsole\bin\Debug\OverClick.PersistentProcess.xml
+D:\projeler\Examples.PersistentProcessConsole\obj\Debug\Examples.PersistentProcessConsole.Resources.resources
+D:\projeler\Examples.PersistentProcessConsole\obj\Debug\Examples.PersistentProcessConsole.vbproj.GenerateResource.cache
+D:\projeler\Examples.PersistentProcessConsole\obj\Debug\Examples.PersistentProcessConsole.vbproj.CoreCompileInputs.cache
+D:\projeler\Examples.PersistentProcessConsole\obj\Debug\Examples.PersistentProcessConsole.vbproj.CopyComplete
+D:\projeler\Examples.PersistentProcessConsole\obj\Debug\Examples.PersistentProcessConsole.exe
+D:\projeler\Examples.PersistentProcessConsole\obj\Debug\Examples.PersistentProcessConsole.xml
+D:\projeler\Examples.PersistentProcessConsole\obj\Debug\Examples.PersistentProcessConsole.pdb
+D:\projeler\Examples.PersistentProcessConsole\obj\Debug\Examples.PersistentProcessConsole.vbprojAssemblyReference.cache

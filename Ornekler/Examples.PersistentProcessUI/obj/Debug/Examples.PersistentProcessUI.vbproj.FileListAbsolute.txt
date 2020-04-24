@@ -1,0 +1,16 @@
+D:\projeler\Examples.PersistentProcessUI\bin\Debug\Examples.PersistentProcessUI.exe.config
+D:\projeler\Examples.PersistentProcessUI\bin\Debug\Examples.PersistentProcessUI.exe
+D:\projeler\Examples.PersistentProcessUI\bin\Debug\Examples.PersistentProcessUI.pdb
+D:\projeler\Examples.PersistentProcessUI\bin\Debug\Examples.PersistentProcessUI.xml
+D:\projeler\Examples.PersistentProcessUI\bin\Debug\OverClick.PersistentProcess.dll
+D:\projeler\Examples.PersistentProcessUI\bin\Debug\OverClick.PersistentProcess.pdb
+D:\projeler\Examples.PersistentProcessUI\bin\Debug\OverClick.PersistentProcess.xml
+D:\projeler\Examples.PersistentProcessUI\obj\Debug\Examples.PersistentProcessUI.vbprojAssemblyReference.cache
+D:\projeler\Examples.PersistentProcessUI\obj\Debug\Examples.PersistentProcessUI.ExampleUI.resources
+D:\projeler\Examples.PersistentProcessUI\obj\Debug\Examples.PersistentProcessUI.Resources.resources
+D:\projeler\Examples.PersistentProcessUI\obj\Debug\Examples.PersistentProcessUI.vbproj.GenerateResource.cache
+D:\projeler\Examples.PersistentProcessUI\obj\Debug\Examples.PersistentProcessUI.vbproj.CoreCompileInputs.cache
+D:\projeler\Examples.PersistentProcessUI\obj\Debug\Examples.PersistentProcessUI.vbproj.CopyComplete
+D:\projeler\Examples.PersistentProcessUI\obj\Debug\Examples.PersistentProcessUI.exe
+D:\projeler\Examples.PersistentProcessUI\obj\Debug\Examples.PersistentProcessUI.xml
+D:\projeler\Examples.PersistentProcessUI\obj\Debug\Examples.PersistentProcessUI.pdb
